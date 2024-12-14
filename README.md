@@ -27,4 +27,4 @@ Este archivo tiene una lista de archivos que Git debería ignorar y no confirmar
 
 ## `requirements.txt` 
 
-Este archivo se utiliza para configurar las bibliotecas de Python en tu estación de trabajo.
+Este archivo se utiliza para configurar las bibliotecas de Python en tu estación de trabajo....
